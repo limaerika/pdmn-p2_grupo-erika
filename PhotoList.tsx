@@ -49,10 +49,10 @@ const styles = StyleSheet.create({
     width: '100%',
     height: undefined, // Para tornar a altura responsiva
     aspectRatio: 1, // Manter a proporção da imagem
-    marginBottom: 10, // Adicionando margem inferior de 5px para as imagens
+    marginBottom: 10, // Adicionando margem inferior de 5px para as imagens.
   },
   buttonContainer: {
-    marginBottom: 5, // Adicionando margem inferior de 10px para o botão
+    marginBottom: 5, // Adicionando margem inferior de 10px para o botão.
   }
   
 });
