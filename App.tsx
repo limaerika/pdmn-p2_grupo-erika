@@ -1,7 +1,7 @@
 // App.tsx
 import React from 'react';
 import { SafeAreaView, StyleSheet } from 'react-native';
-import PhotoList from './PhotoList'; // Corrigido o caminho do import
+import PhotoList from './PhotoList'; // Corrigido o caminho do import.
 
 const App = () => {
   return (
