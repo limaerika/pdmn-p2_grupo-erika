@@ -18,4 +18,4 @@ export const getCatPhotos = async (limit = 5) => {
   return response.data;
 };
 
-export default api; // Exportar a instância axios
+export default api; // Exportar a instância axios.
